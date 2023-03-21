@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "JOPZgHV+CA85J2o6l8UyLI3KOwjjSA1MFxw0kGdcsweWj4BEUS0M4cb9jQE2ZnmuLfehpsZXrZBmKxDFrXlebw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ankbad01\\source\\repos\\RadShadowSample\\RadShadowSample\\RadShadowSample.iOS\\RadShadowSample.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ankbad01\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ankbad01\\.nuget\\packages\\skiasharp\\2.80.3\\skiasharp.2.80.3.nupkg.sha512",
+    "C:\\Users\\ankbad01\\.nuget\\packages\\skiasharp.views\\2.80.3\\skiasharp.views.2.80.3.nupkg.sha512",
+    "C:\\Users\\ankbad01\\.nuget\\packages\\skiasharp.views.forms\\2.80.3\\skiasharp.views.forms.2.80.3.nupkg.sha512",
+    "C:\\Users\\ankbad01\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\ankbad01\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ankbad01\\.nuget\\packages\\telerik.ui.for.xamarin.documents.cmaputils.trial\\2022.3.1108\\telerik.ui.for.xamarin.documents.cmaputils.trial.2022.3.1108.nupkg.sha512",
+    "C:\\Users\\ankbad01\\.nuget\\packages\\telerik.ui.for.xamarin.documents.core.trial\\2022.3.1108\\telerik.ui.for.xamarin.documents.core.trial.2022.3.1108.nupkg.sha512",
+    "C:\\Users\\ankbad01\\.nuget\\packages\\telerik.ui.for.xamarin.documents.drawingml.trial\\2022.3.1108\\telerik.ui.for.xamarin.documents.drawingml.trial.2022.3.1108.nupkg.sha512",
+    "C:\\Users\\ankbad01\\.nuget\\packages\\telerik.ui.for.xamarin.documents.fixed.trial\\2022.3.1108\\telerik.ui.for.xamarin.documents.fixed.trial.2022.3.1108.nupkg.sha512",
+    "C:\\Users\\ankbad01\\.nuget\\packages\\telerik.ui.for.xamarin.documents.flow.formatproviders.doc.trial\\2022.3.1108\\telerik.ui.for.xamarin.documents.flow.formatproviders.doc.trial.2022.3.1108.nupkg.sha512",
+    "C:\\Users\\ankbad01\\.nuget\\packages\\telerik.ui.for.xamarin.documents.flow.formatproviders.pdf.trial\\2022.3.1108\\telerik.ui.for.xamarin.documents.flow.formatproviders.pdf.trial.2022.3.1108.nupkg.sha512",
+    "C:\\Users\\ankbad01\\.nuget\\packages\\telerik.ui.for.xamarin.documents.flow.trial\\2022.3.1108\\telerik.ui.for.xamarin.documents.flow.trial.2022.3.1108.nupkg.sha512",
+    "C:\\Users\\ankbad01\\.nuget\\packages\\telerik.ui.for.xamarin.documents.spreadsheet.formatproviders.openxml.trial\\2022.3.1108\\telerik.ui.for.xamarin.documents.spreadsheet.formatproviders.openxml.trial.2022.3.1108.nupkg.sha512",
+    "C:\\Users\\ankbad01\\.nuget\\packages\\telerik.ui.for.xamarin.documents.spreadsheet.formatproviders.pdf.trial\\2022.3.1108\\telerik.ui.for.xamarin.documents.spreadsheet.formatproviders.pdf.trial.2022.3.1108.nupkg.sha512",
+    "C:\\Users\\ankbad01\\.nuget\\packages\\telerik.ui.for.xamarin.documents.spreadsheet.formatproviders.xls.trial\\2022.3.1108\\telerik.ui.for.xamarin.documents.spreadsheet.formatproviders.xls.trial.2022.3.1108.nupkg.sha512",
+    "C:\\Users\\ankbad01\\.nuget\\packages\\telerik.ui.for.xamarin.documents.spreadsheet.trial\\2022.3.1108\\telerik.ui.for.xamarin.documents.spreadsheet.trial.2022.3.1108.nupkg.sha512",
+    "C:\\Users\\ankbad01\\.nuget\\packages\\telerik.ui.for.xamarin.documents.spreadsheetstreaming.trial\\2022.3.1108\\telerik.ui.for.xamarin.documents.spreadsheetstreaming.trial.2022.3.1108.nupkg.sha512",
+    "C:\\Users\\ankbad01\\.nuget\\packages\\telerik.ui.for.xamarin.trial\\2022.3.1109.1\\telerik.ui.for.xamarin.trial.2022.3.1109.1.nupkg.sha512",
+    "C:\\Users\\ankbad01\\.nuget\\packages\\telerik.ui.for.xamarin.zip.trial\\2022.3.1108\\telerik.ui.for.xamarin.zip.trial.2022.3.1108.nupkg.sha512",
+    "C:\\Users\\ankbad01\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\ankbad01\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\ankbad01\\.nuget\\packages\\xamarin.forms.pancakeview\\2.3.0.759\\xamarin.forms.pancakeview.2.3.0.759.nupkg.sha512"
+  ],
+  "logs": []
+}

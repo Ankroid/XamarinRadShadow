@@ -1,0 +1,15 @@
+C:\Users\ankbad01\source\repos\RadShadowSample\RadShadowSample\RadShadowSample\bin\Debug\netstandard2.0\RadShadowSample.deps.json
+C:\Users\ankbad01\source\repos\RadShadowSample\RadShadowSample\RadShadowSample\bin\Debug\netstandard2.0\RadShadowSample.dll
+C:\Users\ankbad01\source\repos\RadShadowSample\RadShadowSample\RadShadowSample\bin\Debug\netstandard2.0\RadShadowSample.pdb
+C:\Users\ankbad01\source\repos\RadShadowSample\RadShadowSample\RadShadowSample\obj\Debug\netstandard2.0\RadShadowSample.csproj.AssemblyReference.cache
+C:\Users\ankbad01\source\repos\RadShadowSample\RadShadowSample\RadShadowSample\obj\Debug\netstandard2.0\RadShadowSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankbad01\source\repos\RadShadowSample\RadShadowSample\RadShadowSample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ankbad01\source\repos\RadShadowSample\RadShadowSample\RadShadowSample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ankbad01\source\repos\RadShadowSample\RadShadowSample\RadShadowSample\obj\Debug\netstandard2.0\RadShadowSample.AssemblyInfoInputs.cache
+C:\Users\ankbad01\source\repos\RadShadowSample\RadShadowSample\RadShadowSample\obj\Debug\netstandard2.0\RadShadowSample.AssemblyInfo.cs
+C:\Users\ankbad01\source\repos\RadShadowSample\RadShadowSample\RadShadowSample\obj\Debug\netstandard2.0\RadShadowSample.csproj.CoreCompileInputs.cache
+C:\Users\ankbad01\source\repos\RadShadowSample\RadShadowSample\RadShadowSample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ankbad01\source\repos\RadShadowSample\RadShadowSample\RadShadowSample\obj\Debug\netstandard2.0\RadShadowSample.dll
+C:\Users\ankbad01\source\repos\RadShadowSample\RadShadowSample\RadShadowSample\obj\Debug\netstandard2.0\refint\RadShadowSample.dll
+C:\Users\ankbad01\source\repos\RadShadowSample\RadShadowSample\RadShadowSample\obj\Debug\netstandard2.0\RadShadowSample.pdb
+C:\Users\ankbad01\source\repos\RadShadowSample\RadShadowSample\RadShadowSample\obj\Debug\netstandard2.0\ref\RadShadowSample.dll
